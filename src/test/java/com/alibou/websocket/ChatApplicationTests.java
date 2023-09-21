@@ -1,10 +1,10 @@
-package com.jajudev.websocket;
+package com.alibou.websocket;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WebsocketApplicationTests {
+class ChatApplicationTests {
 
 	@Test
 	void contextLoads() {
